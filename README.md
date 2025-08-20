@@ -1,6 +1,6 @@
 > ⛵Ship must sail⛵
 
-# Salutations!
+Salutations!
 I am Hochang Song, you can also call me Andrew😁
 
 📈 GitHub Stats
@@ -11,15 +11,21 @@ Currently
 
 ## Learned
 
-1️⃣Week 1
+1️⃣Week 1 (14 Aug ~ 14 Aug)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 리눅스 명령어 학습 (1/2)
 
-2️⃣Week 2
+2️⃣Week 2 (18 Aug ~ 22 Aug)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
+- 리눅스 명령어 학습 (2/2)
+- 깃헙 명령어 학습 (2/2)
+- 파이썬 학습 (0/2)
+
+3️⃣Week 3 (25 Aug ~ 29 Aug)
+4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
 
 ### Learning
 
@@ -35,4 +41,6 @@ Currently
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-# 
+
+
+### To do 
